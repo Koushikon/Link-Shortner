@@ -12,6 +12,7 @@
   <div id='stars2'></div>
   <div id='stars3'></div>
 
+  <!-- Search Button And Search Input -->
   <div class="search__container">
     <form action="#" method="POST">
       <input class="search__input" type="url" pattern="https://.*" placeholder="Search" required>
@@ -22,10 +23,6 @@
       </button>
     </form>
     <div class="show">
-
-    </div>
-  </div>
-
 </body>
 
 </html>
