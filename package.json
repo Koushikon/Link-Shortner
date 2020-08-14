@@ -1,0 +1,27 @@
+{
+  "name": "link-shortner",
+  "version": "1.0.0",
+  "description": "link shortner project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js -e js,ejs,css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koushikask/Link-Shortner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koushikask/Link-Shortner/issues"
+  },
+  "homepage": "https://github.com/Koushikask/Link-Shortner#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1"
+  }
+}
