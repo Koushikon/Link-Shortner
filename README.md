@@ -1,5 +1,6 @@
 # Link-Shortner
-
+First
+# npm -i
 Clone This code
 open this as a folder with VS Code
 terminal ->
