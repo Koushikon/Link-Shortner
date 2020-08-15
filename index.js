@@ -46,4 +46,4 @@ app.use(function (req, res, next) {
 });
 
 const PORT = process.env.PORT;
-http.listen(PORT, console.log(`Server Listen on Port ${PORT}`));
+http.listen(PORT, console.log(`Server Listen on Port ${PORT} open >> http://localhost:${PORT}/`));
